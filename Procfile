@@ -1,0 +1,1 @@
+web: gunicorn code-star-2021.wsgi
