@@ -57,7 +57,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'code-star-2021.urls'
+ROOT_URLCONF = 'codestar2021.urls'
 
 TEMPLATES = [
     {
@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'code-star-2021.wsgi.application'
+WSGI_APPLICATION = 'codestar2021.wsgi.application'
 
 
 # Database
